@@ -1,6 +1,6 @@
-import logo from './images/Logo.png';
-import company1 from './images/S7.png';
-import company2 from './images/XiamenAir.png';
+import logo from '../../images/Logo.png';
+import company1 from '../../images/S7.png';
+import company2 from '../../images/XiamenAir.png';
 import './App.css';
 
 function App() {

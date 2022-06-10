@@ -44,7 +44,7 @@
 }
 
 .filters__checkbox_item {
-  cursor: url(./images/Cursor.png) 13 14, auto;
+  cursor: url(../../images/Cursor.png) 13 14, auto;
   color: 2196F3;
 }
 
@@ -53,7 +53,7 @@
   font-weight: 400;
   font-size: 13px;
   line-height: 20px;
-  cursor: url(./images/Cursor.png) 13 14, auto;
+  cursor: url(../../images/Cursor.png) 13 14, auto;
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -85,7 +85,7 @@
   padding: 15px;
   border: 1px solid rgba(223, 229, 236, 1);
   background-color: #FFFFFF;
-  cursor: url(./images/Cursor.png) 13 14, auto;
+  cursor: url(../../images/Cursor.png) 13 14, auto;
 }
 
 .main__column_filter-btn:nth-child(1) {
@@ -207,7 +207,7 @@
   width: 502px;
   border: none;
   border-radius: 5px;
-  cursor: url(./images/Cursor.png) 13 14, auto;
+  cursor: url(../../images/Cursor.png) 13 14, auto;
   margin-top: 20px;
   padding: 15px;
   background-color: #2196F3;
@@ -250,7 +250,7 @@
 .custom-checkbox>input:checked+span::before {
   background-color: #FFFFFF;
   border: 1px solid rgba(33, 150, 243, 1);
-  background-image: url(./images/Shape.svg);
+  background-image: url(../../images/Shape.svg);
 }
 
 .filters__checkbox_radio>input {
@@ -283,7 +283,7 @@
 /* стили для радиокнопки, находящейся в состоянии checked */
 .filters__checkbox_radio>input:checked+span::before {
   border: 1px solid #2196F3;
-  background-image: url(./images/Selected.svg);
+  background-image: url(../../images/Selected.svg);
 }
 
 .filters__checkbox_radio:hover {
